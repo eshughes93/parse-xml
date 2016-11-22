@@ -1,0 +1,18 @@
+{
+  "name": "paystand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse-xml.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
