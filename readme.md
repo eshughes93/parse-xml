@@ -2,8 +2,8 @@
 
 There are two files of importance here.
 
-`parse-xml.js` - This has the actual parsing function.
-`test/test.js` - This has the unit tests written using Mocha and Chai.
+- `parse-xml.js` - This has the actual parsing function.
+- `test/test.js` - This has the unit tests written using Mocha and Chai.
 
 Run `npm i` to install mocha and chai.
 
